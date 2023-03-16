@@ -10,8 +10,8 @@
     {
       "author": "Julian Lage", // Optional
       "song": "I'll Be Seeing You",
-      "description": "Live in NY" // Optional
-    },
+      "description": "Live in LA" // Optional
+    }
     ...
   ]
 }
