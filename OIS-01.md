@@ -4,13 +4,13 @@
 ```
 {
   "ois_id": 1,
-  "name": "Awesome Jazz", // Optional
-  "description": "Listen to my favourite songs", // Optional
+  "name": "Awesome Jazz",
+  "description": "Listen to my favourite songs",
   "songs": [
     {
-      "author": "Julian Lage", // Optional
+      "author": "Julian Lage",
       "song": "I'll Be Seeing You",
-      "description": "Live in LA" // Optional
+      "description": "Live in LA"
     }
   ]
 }
