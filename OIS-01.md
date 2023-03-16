@@ -3,7 +3,7 @@
 ## Create a playlist
 ```
 {
-  "kind": 1,
+  "ois_id": 1,
   "name": "Awesome Jazz",
   "description": "Listen to my favourite songs",
   "songs": [
