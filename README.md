@@ -21,12 +21,14 @@ These are just a few examples of the potential applications for the Ordinaries f
 The Ordinary Implementation Specifications (OIS) define the specific keys and values that can be used in an Ordinary object. Each OIS is identified by a unique ois_id value, which is used to indicate the specific use case for the object.
 
 The OIS specification is designed to be extensible, allowing new keys and values to be added as needed. This flexibility allows the Ordinaries format to be used in a wide variety of applications.
-Available OIS
+
+# Available OIS
 
 Here are the OIS currently available:
 
-    OIS-00: The basic Ordinary format, consisting of the ois_id and extend keys.
-
-    OIS-01: Playlists, consisting of fields for the name of the playlist, a description, and an array of songs.
+| OIS | Description |
+|-----|-------------|
+|[OIS-00](OIS-00.md)| The basic Ordinary format, consisting of the ois_id and extend keys.|
+|[OIS-01](OIS-01.md)| Playlists, consisting of fields for the name of the playlist, a description, and an array of songs.|
 
 Additional OIS will be added as needed, as new use cases are identified.
